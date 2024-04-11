@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Mozzarella Sticks",
+        "category": "1e07108b-d3ae-425d-9d24-ef7ae46a3bca",
+        "_id": "9ec8686c-0ebc-4a14-82f9-baeeed79a4bf"
+    },
+    {
+        "name": "Spring Rolls",
+        "category": "1e07108b-d3ae-425d-9d24-ef7ae46a3bca",
+        "_id": "4bc97e16-560d-41d2-b5c0-df4bf823b5d5"
+    },
+    {
+        "name": "Garlic Bread",
+        "category": "1e07108b-d3ae-425d-9d24-ef7ae46a3bca",
+        "_id": "2bf2ed60-0994-435e-aaf4-4eb2e29f6b03"
+    },
+    {
+        "name": "Tomato Basil Soup",
+        "category": "63a05b15-ae7b-41e5-ae5d-10bc2a8df6a7",
+        "_id": "0d0c584b-a870-4a89-9de4-411b430b00f4"
+    },
+    {
+        "name": "Chicken Caesar Salad",
+        "category": "63a05b15-ae7b-41e5-ae5d-10bc2a8df6a7",
+        "_id": "6bbfe3c4-3cb0-4c2c-b3ea-dbb65127d69f"
+    }
+]

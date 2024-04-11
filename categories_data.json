@@ -1,0 +1,54 @@
+[
+    {
+        "_id": "1e07108b-d3ae-425d-9d24-ef7ae46a3bca",
+        "name": "Appetizers"
+    },
+    {
+        "_id": "63a05b15-ae7b-41e5-ae5d-10bc2a8df6a7",
+        "name": "Soups & Salads"
+    },
+    {
+        "_id": "dacd4578-e5d5-4c92-8a85-79d4befda340",
+        "name": "Pizzas"
+    },
+    {
+        "_id": "b00ba598-7423-49b6-ada4-5dba512b5a1d",
+        "name": "Burgers & Sandwiches"
+    },
+    {
+        "_id": "ae04cc34-67b9-47e4-a81e-e4d7d2f31b57",
+        "name": "Pasta & Noodles"
+    },
+    {
+        "_id": "9de5b05c-26f5-467f-b917-b10ef8a699be",
+        "name": "International Cuisine"
+    },
+    {
+        "_id": "4507e218-fed5-4f05-adc6-46223f906c82",
+        "name": "Seafood"
+    },
+    {
+        "_id": "5f139008-50d0-4fb5-ae3a-ccbeb9208061",
+        "name": "Vegan & Vegetarian"
+    },
+    {
+        "_id": "ad39c7be-bd1f-47af-887d-bed8ad55a27b",
+        "name": "Desserts"
+    },
+    {
+        "_id": "b35b2dfd-b09a-4de4-b048-76ba42818245",
+        "name": "Beverages"
+    },
+    {
+        "_id": "6a4a18f9-c4ed-4c00-bdf5-263838d69856",
+        "name": "Kids' Menu"
+    },
+    {
+        "_id": "d2ff030a-7ce6-43cd-826f-0afc8cdcc1e3",
+        "name": "Breakfast"
+    },
+    {
+        "_id": "be3b36d5-aac8-4dda-8aeb-e7c1c0b30596",
+        "name": "Late Night Snacks"
+    }
+]
